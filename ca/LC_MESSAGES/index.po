@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) : This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the Blender 2.78 Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# phan <phahoatho@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blender 2.78 Manual 2.78\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-27 17:38-0400\n"
+"PO-Revision-Date: 2018-01-12 15:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: català <ca-docboard@blender.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.5\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Poedit-Basepath: ../../../build/locale\n"
+"X-Poedit-SearchPath-0: index.pot\n"
+
+#: ../../manual/index.rst:6
+msgid "Blender Reference Manual"
+msgstr "Manual de Referència de Blender"
+
+#: ../../manual/index.rst:8
+msgid "Welcome to the Blender Manual!"
+msgstr "Benvingut al Manual de Blender!"
+
+#: ../../manual/index.rst:10
+msgid "This is the manual for the 3D animation software from `Blender.org <https://www.blender.org>`__."
+msgstr "Aquest es el manual per al programari d'animació 3D de `Blender.org <https://www.blender.org>`__."
+
+#: ../../manual/index.rst:14
+msgid ""
+"This site can be downloaded for offline use: :download:`Download the full manual (zipped HTML files) <blender_manual."
+"zip>`"
+msgstr ""
+"Aquest lloc pot ser descarregat per un us fora de línea :download:`Descarrega el manual complet (fitxers HTML comprimits "
+"en zip) <blender_manual_ca.zip>`"
+
+#: ../../manual/index.rst:16
+msgid ":doc:`/about/whats_new`"
+msgstr ":doc:`/about/whats_new`"
+
+#: ../../manual/index.rst:20
+msgid "Getting Started"
+msgstr "Començant"
+
+#: ../../manual/index.rst:22
+msgid ":doc:`/getting_started/about/index`"
+msgstr ":doc:`/getting_started/about/index`"
+
+#: ../../manual/index.rst:23
+msgid ":doc:`/getting_started/installing/index`"
+msgstr ":doc:`/getting_started/installing/index`"
+
+#: ../../manual/index.rst:24
+msgid ":doc:`/getting_started/help`"
+msgstr ":doc:`/getting_started/help`"
+
+#: ../../manual/index.rst:28
+msgid "Sections"
+msgstr "Seccions"
+
+#: ../../manual/index.rst:41
+msgid ":doc:`/interface/index`"
+msgstr ":doc:`/interface/index`"
+
+#: ../../manual/index.rst:42
+msgid "An introduction to Blender's window system, widgets and tools."
+msgstr "Una Introducció al sistema de Finestres, estris visuals i eines."
+
+#: ../../manual/index.rst:49
+msgid ":doc:`/editors/index`"
+msgstr ":doc:`/editors/index`"
+
+#: ../../manual/index.rst:50
+msgid "Overview of the editors describing the interface and functionality of each one."
+msgstr "Vista dels editors amb la descripció de la interfície i la funcionalitat de cadascún."
+
+#: ../../manual/index.rst:57
+msgid ":doc:`/data_system/index`"
+msgstr ":doc:`/data_system/index`"
+
+#: ../../manual/index.rst:58
+msgid "Blender's data management of scene data and the structure of blend-files."
+msgstr "Gestió de la imformació de la escena per Blender i estructura del fitxers blend."
+
+#: ../../manual/index.rst:65
+msgid ":doc:`/modeling/index`"
+msgstr ":doc:`/modeling/index`"
+
+#: ../../manual/index.rst:66
+msgid "The various supported geometry types, modeling tools, and modifiers."
+msgstr "Els diferents tipus de geometría soportats, eines de modelat, i modificadors."
+
+#: ../../manual/index.rst:73
+msgid ":doc:`/sculpt_paint/index`"
+msgstr ":doc:`/sculpt_paint/index`"
+
+#: ../../manual/index.rst:74
+msgid "The 3D texture painting and sculpting modes."
+msgstr "El pintat de textures en 3D i mode d'esculptura."
+
+#: ../../manual/index.rst:81
+msgid ":doc:`/rigging/index`"
+msgstr ":doc:`/rigging/index`"
+
+#: ../../manual/index.rst:82
+msgid "Overview of armatures, pose mode and constraints."
+msgstr "Vista del esquelets, pose mode i restriccions."
+
+#: ../../manual/index.rst:89
+msgid ":doc:`/animation/index`"
+msgstr ":doc:`/animation/index`"
+
+#: ../../manual/index.rst:90
+msgid "Keyframe animation, graph interpolation, drivers, and shape keys."
+msgstr "Animació per punts clau (keyframe), interpolació de grafic, controladors (drivers), i punts de forma (shape keys)."
+
+#: ../../manual/index.rst:97
+msgid ":doc:`/physics/index`"
+msgstr ":doc:`/physics/index`"
+
+#: ../../manual/index.rst:98
+msgid "Physics simulations, particle systems and dynamic paint."
+msgstr "Simulación físiques, sistemes de particles, i pintat dinàmic."
+
+#: ../../manual/index.rst:105
+msgid ":doc:`/render/index`"
+msgstr ":doc:`/render/index`"
+
+#: ../../manual/index.rst:106
+msgid "Render engines (Internal, Cycles), shading, post-processing, and Freestyle (NPR)."
+msgstr "Motors de Render (Intern, Cycles), sombrejat, post-process, i FreeStyle (NPR)"
+
+#: ../../manual/index.rst:113
+msgid ":doc:`/compositing/index`"
+msgstr ":doc:`/compositing/index`"
+
+#: ../../manual/index.rst:114
+msgid "Post-processing with the Compositor."
+msgstr "Post-processat utilitzant el compositor."
+
+#: ../../manual/index.rst:121
+msgid ":doc:`/game_engine/index`"
+msgstr ":doc:`/game_engine/index`"
+
+#: ../../manual/index.rst:122
+msgid "Blender's Game engine, including scripting, logic and physics."
+msgstr "Motor de Joc de Blender (Game engine), incloent programació, lógica, i fisiques."
+
+#: ../../manual/index.rst:129
+msgid ":doc:`/preferences/index`"
+msgstr ":doc:`/preferences/index`"
+
+#: ../../manual/index.rst:130
+msgid "Blender's settings."
+msgstr "Preferencies de Blender."
+
+#: ../../manual/index.rst:137
+msgid ":doc:`/advanced/index`"
+msgstr ":doc:`/advanced/index`"
+
+#: ../../manual/index.rst:138
+msgid "Python scripting, how to write add-ons and a reference for command line arguments."
+msgstr "Programació en Python, com escriure add-ons i referencia per a instruccions per l'interpret d'ordres."
+
+#: ../../manual/index.rst:146
+msgid ":doc:`/troubleshooting/index`"
+msgstr ":doc:`/troubleshooting/index`"
+
+#: ../../manual/index.rst:146
+msgid ""
+"Compatibility errors related to other software (graphics drivers, Python), how to write a bug report and recover data."
+msgstr ""
+"Errors de compatibilitat relacionats amb altres programaris (controladors grafics, Python), com notificar un error de "
+"programari i recuperar información."
+
+#: ../../manual/index.rst:151
+msgid ":doc:`Glossary </glossary/index>`"
+msgstr ":doc:`Glossary </glossary/index>`"
+
+#: ../../manual/index.rst:152
+msgid "A list of terms and definitions used in Blender and this manual."
+msgstr "Llista de termes i definicions utilitzades en el Blender i en aquest manual."
+
+#: ../../manual/index.rst:156
+msgid ":ref:`Manual Index <genindex>`"
+msgstr ":ref:`Index del Manual <genindex>`"
+
+#: ../../manual/index.rst:157
+msgid "A list of terms linked to the Glossary."
+msgstr "Llista de termes vinculada al glossari."
+
+#: ../../manual/index.rst:185
+msgid "Get Involved"
+msgstr "Involucra't"
+
+#: ../../manual/index.rst:187
+msgid "This manual is maintained largely by volunteers."
+msgstr "Aquest manual està mantingut en gran mesura per voluntaris."
+
+#: ../../manual/index.rst:189
+msgid "Please consider to join the effort and :ref:`Contribute to this Manual <about-user-contribute>`."
+msgstr "Si us plau, considera participar en l'esforç i :ref:`colaborar en aquest manual <about-user-contribute>`."
