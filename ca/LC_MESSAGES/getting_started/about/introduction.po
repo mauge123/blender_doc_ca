@@ -1,0 +1,213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) : This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the Blender 2.79 Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blender 2.79 Manual 2.79\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-12 13:19+0100\n"
+"PO-Revision-Date: 2018-01-15 10:11+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../../manual/getting_started/about/introduction.rst:4
+msgid "Introduction"
+msgstr "Introducció"
+
+#: ../../manual/getting_started/about/introduction.rst:6
+msgid "Welcome to Blender, the free and open source 3D creation suite."
+msgstr ""
+"Benvingut a Blender, el software de creació de 3D lliure i de codi obert."
+
+#: ../../manual/getting_started/about/introduction.rst:8
+msgid ""
+"Blender can be used to create 3D visualizations such as still images, video, "
+"and real-time interactive video games."
+msgstr ""
+"Blender és pot utilizar per crear visualizations en 3 dimensions com són "
+"imatges, video, i jocs interactius a temps real."
+
+#: ../../manual/getting_started/about/introduction.rst:10
+msgid ""
+"Blender is well suited to individuals and small studios who benefit from its "
+"unified pipeline and responsive development process."
+msgstr ""
+"Blender s'adapta a persones i petits estudis que es benficien del seu fluxe "
+"i el seu process de desarrollo adaptatiu"
+
+#: ../../manual/getting_started/about/introduction.rst:13
+msgid ""
+"Blender is a cross-platform application, running on Linux, macOS, and MS-"
+"Windows systems. Blender also has a relatively small memory and drive "
+"requirements compared to other 3D creation suites. Its interface uses OpenGL "
+"to provide a consistent experience across all supported hardware and "
+"platforms."
+msgstr ""
+"Blender es una aplicació multiplataforma, que funciona en sistemes Linux, "
+"masOS, i MS-Windows. Blender també requreix d'una quantitat de memoria "
+"física petita en comparació en altres entorns de creació de 3D. La seva "
+"interfície utilitza OpenGL per a proporcionar una experiència consistent a "
+"través de totes les plataformes i maquinàris soportats."
+
+#: ../../manual/getting_started/about/introduction.rst:19
+msgid "Blender 2.5 with a Big Buck Bunny scene open."
+msgstr "Blender 2.5 amb una escena de Big Buck Bunny oberta."
+
+#: ../../manual/getting_started/about/introduction.rst:23
+msgid "Who uses Blender?"
+msgstr "Qui utilitza Blender?"
+
+#: ../../manual/getting_started/about/introduction.rst:25
+msgid ""
+"Blender has a wide variety of tools making it suitable for almost any sort "
+"of media production. People and studios around the world use it for hobby "
+"projects, commercials, feature films, games and other interactive "
+"applications like kiosks, games and scientific research."
+msgstr ""
+"Blender te una ampli ventall d'eines que fan que s'adapti a quasi qualsevol "
+"tipus de mitja de producción. Gent i estudis arreu del món l'utilitzen per "
+"projectes personals, comercials, pelicules, jocs i altres tipus "
+"d'aplicacions com son terminals interactius i investigació científica."
+
+#: ../../manual/getting_started/about/introduction.rst:29
+msgid ""
+"Check out the `User Stories page <https://www.blender.org/features/user-"
+"stories/>`__ on the Blender website for more examples."
+msgstr ""
+"Dóna una ullada a la  `Pàgina d'històries Personals <https://www.blender.org/"
+"features/user-stories/>`__ (en angles) a la web de Blender per a mes "
+"exemples."
+
+#: ../../manual/getting_started/about/introduction.rst:34
+msgid "Key Features"
+msgstr "Característiques Clau"
+
+#: ../../manual/getting_started/about/introduction.rst:36
+msgid ""
+"Blender is a fully integrated 3D content creation suite, offering a broad "
+"range of essential tools, including :doc:`Modeling </modeling/"
+"introduction>`, :doc:`Rendering </render/introduction>`, :doc:`Animation </"
+"animation/introduction>`, :doc:`Video Editing </editors/vse/index>`, :doc:"
+"`VFX </editors/movie_clip_editor/index>`, :doc:`Compositing </compositing/"
+"introduction>`, :doc:`Texturing </editors/uv_image/uv/overview>`, :doc:"
+"`Rigging </rigging/introduction>`, many types of :doc:`Simulations </physics/"
+"introduction>`, and :doc:`Game Creation </game_engine/introduction>`."
+msgstr ""
+"Blender es un  complet entorn de creació 3D, offerint un ampli ventall "
+"d'eines, incloent :doc:`Modelat </modeling/introduction>`, :doc:`Renderitzat "
+"</render/introduction>`, :doc:`Animació </animation/introduction>`, :doc:"
+"`Edició de Video </editors/vse/index>`, :doc:`VFX </editors/"
+"movie_clip_editor/index>`, :doc:`Composició </compositing/introduction>`, :"
+"doc:`Texturitzat </editors/uv_image/uv/overview>`, :doc:`Rigging </rigging/"
+"introduction>`, molts tipus de :doc:`Simulacions </physics/introduction>`, "
+"i :doc:`Creació de Jocs</game_engine/introduction>`."
+
+#: ../../manual/getting_started/about/introduction.rst:47
+msgid ""
+"Cross platform, with an OpenGL GUI that is uniform on all major platforms "
+"(and customizable with Python scripts)."
+msgstr ""
+"Multiplataforma, amb una Interfície d'Usuari OpenGL que es uniforme en totes "
+"les principals plataformes (i personalitzable mitjançant Python)"
+
+#: ../../manual/getting_started/about/introduction.rst:48
+msgid ""
+"High-quality 3D architecture enabling fast and efficient creation work-flow."
+msgstr ""
+"Arquitectura 3D d'alta qualitat que permet un ràpid i eficient fluxe de "
+"treball."
+
+#: ../../manual/getting_started/about/introduction.rst:49
+msgid ""
+"Excellent community support from `forums <http://blenderartists.org/forum/"
+">`__ and :ref:`IRC <irc-channels>`."
+msgstr ""
+"Excel·lent suport de la comunitat  a través de `forums <http://"
+"blenderartists.org/forum/>`__ (anglès) i :ref:`IRC <irc-channels>`."
+
+#: ../../manual/getting_started/about/introduction.rst:50
+msgid "Small executable size, optionally portable."
+msgstr "Binari de petit tamany, opcionalment portable."
+
+#: ../../manual/getting_started/about/introduction.rst:52
+msgid ""
+"You can download the latest version of Blender `here <https://www.blender."
+"org/download/>`__."
+msgstr ""
+"Et pots descarregar la última versió de Blender des d'`aquí <https://www."
+"blender.org/download/>`__."
+
+#: ../../manual/getting_started/about/introduction.rst:56
+msgid "A rendered image being post-processed."
+msgstr "Una imatge renderitzada que està sent post-processada."
+
+#: ../../manual/getting_started/about/introduction.rst:58
+msgid ""
+"Blender makes it possible to perform a wide range of tasks, and it may seem "
+"daunting when first trying to grasp the basics. However, with a bit of "
+"motivation and the right learning material, it is possible to familiarize "
+"yourself with Blender after a few hours of practice."
+msgstr ""
+"Blender fa possible realitzar una gran quantitat de tasques, i pot semblar "
+"desalentador al principi, intentat comprendre els conceptes bàsics. No "
+"obstant, amb una mica de motivació i el material d'aprenentatge adecuat, es "
+"posible familiarizar-se amb el blender despres d'algunes hores de pràctica."
+
+#: ../../manual/getting_started/about/introduction.rst:62
+msgid ""
+"This manual is a good start though it serves more as a reference. There are "
+"also many online video tutorials from specialized websites, and several "
+"books and training DVDs available in the `Blender Store <https://store."
+"blender.org/>`__ and on the `Blender Cloud <https://cloud.blender.org/>`__."
+msgstr ""
+"Aquest manual es un bon inici, tot i que serveix més com una font de "
+"referencies. Existeixen també molts video tutorials en línea de llocs web "
+"especialitzats, i molts llibres i DVDs de formació disponibles a la `Botiga "
+"de blender <https://store.blender.org/>`__ (angles) i al  `Blender Cloud "
+"<https://cloud.blender.org/>`__."
+
+#: ../../manual/getting_started/about/introduction.rst:67
+msgid ""
+"Despite everything Blender can do, it remains a tool. Great artists do not "
+"create masterpieces by pressing buttons or manipulating brushes, but by "
+"learning and practicing subjects such as human anatomy, composition, "
+"lighting, animation principles, etc."
+msgstr ""
+"Malgrat tot el que és pot fer amb Blender, aquest segueix sent una eina. Els "
+"grans artistes no creen obres Mestres apretant botons o manipulant pincells, "
+"sinò aprentent i practicant temes com son l'anatomia humana, la composició, "
+"la il·luminació, els principis d'animació, etc.."
+
+#: ../../manual/getting_started/about/introduction.rst:71
+msgid ""
+"3D creation software such as Blender have the added technical complexity and "
+"jargon associated with the underlying technologies. Terms like UV maps, "
+"materials, shaders, meshes, and \"subsurf\" are the mediums of the digital "
+"artist, and understanding them, even broadly, will help you to use Blender "
+"to its best."
+msgstr ""
+"Els entorns de creació 3D com Blender han afegit una complexitat técnica i "
+"un argot assossiat a les tecnolgies subjacents. Ternes com mapes UV, "
+"materials, shaders, malles, i \"subsurf\" son els mitjans dels artististes "
+"digitals, i entendre'ls, fins i tot en general, us ajudarà a treure el màxim "
+"profit de Blender."
+
+#: ../../manual/getting_started/about/introduction.rst:76
+msgid ""
+"So keep reading this manual, learn the great tool that Blender is, keep your "
+"mind open to other artistic and technological areas and you too can become a "
+"great artist."
+msgstr ""
+"Per tant, segeix llegint aquest manual, aprèn la gran eina que es Blender, "
+"tingues la ment oberta altres arees artístiques i tecnològiques, i tu també "
+"pots convertir-te en un gran artista."

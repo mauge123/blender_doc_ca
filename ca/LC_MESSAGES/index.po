@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Blender 2.78 Manual 2.78\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-27 17:38-0400\n"
-"PO-Revision-Date: 2018-01-12 15:24+0100\n"
+"PO-Revision-Date: 2018-01-15 08:54+0100\n"
 "Last-Translator: \n"
 "Language-Team: català <ca-docboard@blender.org>\n"
 "Language: ca\n"
@@ -33,14 +33,14 @@ msgstr "Benvingut al Manual de Blender!"
 
 #: ../../manual/index.rst:10
 msgid "This is the manual for the 3D animation software from `Blender.org <https://www.blender.org>`__."
-msgstr "Aquest es el manual per al programari d'animació 3D de `Blender.org <https://www.blender.org>`__."
+msgstr "Aquest és el manual per al programari d'animació 3D de `Blender.org <https://www.blender.org>`__."
 
 #: ../../manual/index.rst:14
 msgid ""
 "This site can be downloaded for offline use: :download:`Download the full manual (zipped HTML files) <blender_manual."
 "zip>`"
 msgstr ""
-"Aquest lloc pot ser descarregat per un us fora de línea :download:`Descarrega el manual complet (fitxers HTML comprimits "
+"Aquest lloc pot ser descarregat per un us fora de línia :download:`Descarrega el manual complet (fitxers HTML comprimits "
 "en zip) <blender_manual_ca.zip>`"
 
 #: ../../manual/index.rst:16
@@ -81,7 +81,7 @@ msgstr ":doc:`/editors/index`"
 
 #: ../../manual/index.rst:50
 msgid "Overview of the editors describing the interface and functionality of each one."
-msgstr "Vista dels editors amb la descripció de la interfície i la funcionalitat de cadascún."
+msgstr "Vista dels editors amb la descripció de la interfície i la funcionalitat de cadascun."
 
 #: ../../manual/index.rst:57
 msgid ":doc:`/data_system/index`"
@@ -89,7 +89,7 @@ msgstr ":doc:`/data_system/index`"
 
 #: ../../manual/index.rst:58
 msgid "Blender's data management of scene data and the structure of blend-files."
-msgstr "Gestió de la imformació de la escena per Blender i estructura del fitxers blend."
+msgstr "Gestió de la informació de la escena per Blender i estructura del fitxers blend."
 
 #: ../../manual/index.rst:65
 msgid ":doc:`/modeling/index`"
@@ -97,7 +97,7 @@ msgstr ":doc:`/modeling/index`"
 
 #: ../../manual/index.rst:66
 msgid "The various supported geometry types, modeling tools, and modifiers."
-msgstr "Els diferents tipus de geometría soportats, eines de modelat, i modificadors."
+msgstr "Els diferents tipus de geometria suportats, eines de modelat, i modificadors."
 
 #: ../../manual/index.rst:73
 msgid ":doc:`/sculpt_paint/index`"
@@ -105,7 +105,7 @@ msgstr ":doc:`/sculpt_paint/index`"
 
 #: ../../manual/index.rst:74
 msgid "The 3D texture painting and sculpting modes."
-msgstr "El pintat de textures en 3D i mode d'esculptura."
+msgstr "El pintat de textures en 3D i mode d'escultura."
 
 #: ../../manual/index.rst:81
 msgid ":doc:`/rigging/index`"
@@ -121,7 +121,7 @@ msgstr ":doc:`/animation/index`"
 
 #: ../../manual/index.rst:90
 msgid "Keyframe animation, graph interpolation, drivers, and shape keys."
-msgstr "Animació per punts clau (keyframe), interpolació de grafic, controladors (drivers), i punts de forma (shape keys)."
+msgstr "Animació per punts clau (keyframe), interpolació de gràfic, controladors (drivers), i punts de forma (shape keys)."
 
 #: ../../manual/index.rst:97
 msgid ":doc:`/physics/index`"
@@ -129,7 +129,7 @@ msgstr ":doc:`/physics/index`"
 
 #: ../../manual/index.rst:98
 msgid "Physics simulations, particle systems and dynamic paint."
-msgstr "Simulación físiques, sistemes de particles, i pintat dinàmic."
+msgstr "Simulacions físiques, sistemes de particles, i pintat dinàmic."
 
 #: ../../manual/index.rst:105
 msgid ":doc:`/render/index`"
@@ -137,7 +137,7 @@ msgstr ":doc:`/render/index`"
 
 #: ../../manual/index.rst:106
 msgid "Render engines (Internal, Cycles), shading, post-processing, and Freestyle (NPR)."
-msgstr "Motors de Render (Intern, Cycles), sombrejat, post-process, i FreeStyle (NPR)"
+msgstr "Motors de Render (Intern, Cycles), ombrejat, post-processat, i FreeStyle (NPR)"
 
 #: ../../manual/index.rst:113
 msgid ":doc:`/compositing/index`"
@@ -153,7 +153,7 @@ msgstr ":doc:`/game_engine/index`"
 
 #: ../../manual/index.rst:122
 msgid "Blender's Game engine, including scripting, logic and physics."
-msgstr "Motor de Joc de Blender (Game engine), incloent programació, lógica, i fisiques."
+msgstr "Motor de Joc de Blender (Game engine), incloent programació, lògica, i físiques."
 
 #: ../../manual/index.rst:129
 msgid ":doc:`/preferences/index`"
@@ -169,7 +169,7 @@ msgstr ":doc:`/advanced/index`"
 
 #: ../../manual/index.rst:138
 msgid "Python scripting, how to write add-ons and a reference for command line arguments."
-msgstr "Programació en Python, com escriure add-ons i referencia per a instruccions per l'interpret d'ordres."
+msgstr "Programació en Python, com escriure add-ons i referència per a instruccions per l'intèrpret d'ordres."
 
 #: ../../manual/index.rst:146
 msgid ":doc:`/troubleshooting/index`"
