@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) : This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the Blender 2.79 Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blender 2.79 Manual 2.79\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-12 13:19+0100\n"
+"PO-Revision-Date: 2018-01-16 14:11+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca\n"
+
+#: ../../manual/getting_started/installing/introduction.rst:4
+msgid "Introduction"
+msgstr "Introducció"
+
+#: ../../manual/getting_started/installing/introduction.rst:6
+msgid "Blender is available for download for Linux, macOS and MS-Windows."
+msgstr ""
+"Blender està disponible per descarregar per a Linux, MacOS i MS-Windows."
+
+#: ../../manual/getting_started/installing/introduction.rst:10
+msgid "Minimum Requirements"
+msgstr "Requisits mínims"
+
+#: ../../manual/getting_started/installing/introduction.rst:12
+msgid ""
+"Check if your system meets the `minimum or recommended requirements <https://"
+"www.blender.org/download/requirements/>`__."
+msgstr ""
+"Comproveu si el vostre sistema compleix els `requisits mínims o recomanats "
+"<https://www.blender.org/download/requirements/>`__."
+
+#: ../../manual/getting_started/installing/introduction.rst:15
+msgid ""
+"Always check that the graphics drivers are up to date and that OpenGL is "
+"well supported."
+msgstr ""
+"Comproveu sempre que els controladors gràfics estiguin actualitzats i que "
+"OpenGL sigui compatible."
+
+#: ../../manual/getting_started/installing/introduction.rst:17
+msgid ""
+"Support for other hardware such as graphic tablets and 3D mice are covered "
+"later in :doc:`Supported Hardware </getting_started/installing/configuration/"
+"hardware>`."
+msgstr ""
+"El suport per a altres maquinari, com ara tauletes gràfiques i ratolins 3D, "
+"es cobrirà més endavant a :doc:`Maquinari soportat </getting_started/"
+"installing/configuration/hardware>`."
+
+#: ../../manual/getting_started/installing/introduction.rst:22
+msgid "Download Blender"
+msgstr "Descarregar Blender"
+
+#: ../../manual/getting_started/installing/introduction.rst:24
+msgid ""
+"The Blender Foundation distributes Blender in three different ways that you "
+"can choose from, to better suit your needs."
+msgstr ""
+"La Fundació Blender distribueix Blender de tres maneres diferents per poder "
+"triar, per tal de satisfer millor les seves necessitats."
+
+#: ../../manual/getting_started/installing/introduction.rst:27
+msgid ""
+"The options comprise binary packages for all the supported platforms and the "
+"source code. Within the binary packages, you can choose from a stable "
+"release or a daily build. The first has the benefit of being more reliable, "
+"the latter provides the newest features, as they are developed. Blender is "
+"released approximately every three months. You can keep up to date with the "
+"latest changes through the `release notes <https://www.blender.org/features/"
+"releases/>`__."
+msgstr ""
+"Les opcions inclouen paquets binaris per a totes les plataformes compatibles "
+"i el codi font. Dins dels paquets binaris, podeu triar entre una versió "
+"estable o una compilació diària. El primer té el benefici de ser més fiable, "
+"aquest últim proporciona les funcions més noves, al mateix temps que s'estan "
+"desarrollant. Blender es publica aproximadament cada tres mesos. Podeu "
+"mantenir-vos actualitzat amb els darrers canvis a través de les `notes de "
+"publicació <https://www.blender.org/features/releases/>`__."
+
+#: ../../manual/getting_started/installing/introduction.rst:34
+msgid "`Latest Stable Release <https://www.blender.org/download/>`__"
+msgstr "`Ultima versió estable <https://www.blender.org/download/>`__"
+
+#: ../../manual/getting_started/installing/introduction.rst:34
+msgid ""
+"This is a binary distribution of the latest version of Blender. It is "
+"considered stable and without regressions."
+msgstr ""
+"Aquesta és una distribució binària de l'última versió de Blender. Es "
+"considera estable i sense regressions."
+
+#: ../../manual/getting_started/installing/introduction.rst:38
+msgid "`Daily Builds <https://builder.blender.org/download>`__"
+msgstr "`Compilacions diàries <https://builder.blender.org/download>`__"
+
+#: ../../manual/getting_started/installing/introduction.rst:37
+msgid ""
+"This is a binary distribution of Blender that is updated daily to include "
+"the newest changes in development. These versions are not as thoroughly "
+"tested as the stable release, and might break, although they are official "
+"and generally not highly experimental."
+msgstr ""
+"Es tracta d'una distribució binària de Blender que s'actualitza diàriament "
+"per incloure els canvis més recents en el desenvolupament. Aquestes versions "
+"no estan tan provades com en la versió estable i poden no interrompre el "
+"funcionament del programa, tot i que són oficials i generalment no gaire "
+"experimentals."
+
+#: ../../manual/getting_started/installing/introduction.rst:51
+msgid ""
+"`Build from Source <https://wiki.blender.org/index.php/Dev:Doc/"
+"Building_Blender>`__"
+msgstr ""
+"`Compilar des del codi font <https://wiki.blender.org/index.php/Dev:Doc/"
+"Building_Blender>`__"
+
+#: ../../manual/getting_started/installing/introduction.rst:41
+msgid ""
+"Blender's source is available for reference and installation, with the "
+"following advantages:"
+msgstr ""
+"El codi font de Blender està disponible per a referències i instal·lacions, "
+"amb els següents avantatges:"
+
+#: ../../manual/getting_started/installing/introduction.rst:43
+msgid "Blender is always up to date."
+msgstr "Blender sempre està actualitzat."
+
+#: ../../manual/getting_started/installing/introduction.rst:44
+msgid ""
+"It allows access to any version or branch where a feature is being developed."
+msgstr ""
+"Permet l'accés a qualsevol versió o branca de desenvolupament on s'està "
+"desenvolupant una característica."
+
+#: ../../manual/getting_started/installing/introduction.rst:45
+msgid "It can be freely customized."
+msgstr "Es pot personalitzar lliurement."
+
+#: ../../manual/getting_started/installing/introduction.rst:49
+msgid ""
+"This is included for completeness, but it is **not** expected that regular "
+"users should have to compile their own Blender builds."
+msgstr ""
+"Això està inclòs per a la seva integritat, però **no** s'espera que els "
+"usuaris habituals hagin de compilar les seves pròpies versions de Blender."
+
+#: ../../manual/getting_started/installing/introduction.rst:54
+msgid "Install Blender"
+msgstr "Instal·lar Blender"
+
+#: ../../manual/getting_started/installing/introduction.rst:55
+msgid ""
+"The procedure for installing a binary, either the last stable release or a "
+"daily build, is the same. Follow the steps for your operative system:"
+msgstr ""
+"El procediment per instal·lar un binari, ja sigui l'última versió estable o "
+"una compilació diària, és el mateix. Seguiu els passos del vostre sistema "
+"operatiu:"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Blender 2.79 Manual 2.79\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-12 13:19+0100\n"
-"PO-Revision-Date: 2018-01-12 14:23+0100\n"
+"PO-Revision-Date: 2018-01-16 14:23+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,106 +24,115 @@ msgstr "Sistema d'ajuda"
 
 #: ../../manual/getting_started/help.rst:6
 msgid "Blender has a range of built-in and web-based help options."
-msgstr ""
+msgstr "Blender té un ventall d'opcions d'ajuda integrades i basades en web."
 
 #: ../../manual/getting_started/help.rst:10
 msgid "Tooltips"
-msgstr ""
+msgstr "Informació sobre eines"
 
 #: ../../manual/getting_started/help.rst:14
 msgid "Tooltip of the Render Engine selector in the Info Editor."
-msgstr ""
+msgstr "Informació sobre el selector Motor de Render a l'Editor d'informació."
 
 #: ../../manual/getting_started/help.rst:16
 msgid ""
 "When hovering the mouse cursor over a button or setting, after a few "
 "instants a tooltip appears."
 msgstr ""
+"En passar el cursor del ratolí sobre un botó o configuració, després d'una "
+"estona apareix una información d'ajuda."
 
 #: ../../manual/getting_started/help.rst:20
 msgid "Elements"
-msgstr ""
+msgstr "Elements"
 
 #: ../../manual/getting_started/help.rst:22
 msgid "The context-sensitive Tooltip might contain some of these elements:"
 msgstr ""
+"La informació d'ajuda sensible al context pot contenir alguns d'aquests "
+"elements:"
 
 #: ../../manual/getting_started/help.rst:24
 msgid "Short Description"
-msgstr ""
+msgstr "Descripció curta"
 
 #: ../../manual/getting_started/help.rst:25
 msgid "Related details depending on the control."
-msgstr ""
+msgstr "Detalls relacionats segons el control."
 
 #: ../../manual/getting_started/help.rst:26
 msgid "Shortcut"
-msgstr ""
+msgstr "Accés directe"
 
 #: ../../manual/getting_started/help.rst:27
 msgid "A keyboard or mouse shortcut associated to the tool."
-msgstr ""
+msgstr "Una drecera de teclat o ratolí associat a l'eina."
 
 #: ../../manual/getting_started/help.rst:28
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: ../../manual/getting_started/help.rst:29
 msgid "The value of the property."
-msgstr ""
+msgstr "Valor de la propietat"
 
 #: ../../manual/getting_started/help.rst:30
 msgid "Library"
-msgstr ""
+msgstr "Llibreria"
 
 #: ../../manual/getting_started/help.rst:31
 msgid ""
 "Source file of the active object. See also :doc:`/data_system/"
 "linked_libraries`."
 msgstr ""
+"Arxiu font de l'objecte actiu. Vegeu també :doc:`/data_system/"
+"linked_libraries`."
 
 #: ../../manual/getting_started/help.rst:32
 msgid "Disabled (red)"
-msgstr ""
+msgstr "Desactivat (vermell)"
 
 #: ../../manual/getting_started/help.rst:33
 msgid "The reason why the value is not editable."
-msgstr ""
+msgstr "El motiu pel qual el valor no és editable."
 
 #: ../../manual/getting_started/help.rst:37
 #: ../../manual/getting_started/help.rst:138
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../../manual/getting_started/help.rst:35
 msgid ""
 "For :ref:`scripting <scripting-index>` -- A Python command associated to the "
 "control (usually an operator or property)."
 msgstr ""
+"Per :ref:`programar <scripting-index>` -- Una ordre Python associada al "
+"control (generalment un operador o propietat)."
 
 #: ../../manual/getting_started/help.rst:42
 msgid "Context Sensitive Manual Access"
-msgstr ""
+msgstr "Accés manual sensible al context"
 
 #: ../../manual/getting_started/help.rst:44
 msgid "Reference"
-msgstr ""
+msgstr "Referencia"
 
 #: ../../manual/getting_started/help.rst:0
 msgid "Mode:     All modes"
-msgstr ""
+msgstr "Mode:     Tots els modes"
 
 #: ../../manual/getting_started/help.rst:0
 msgid "Menu:     :kbd:`RMB`, :menuselection:`Online Manual`"
-msgstr ""
+msgstr "Menu:     :kbd:`RMB`, :menuselection:`Manual Online`"
 
 #: ../../manual/getting_started/help.rst:0
 msgid "Hotkey:   :kbd:`Alt-F1`"
-msgstr ""
+msgstr "Hotkey:   :kbd:`Alt-F1`"
 
 #: ../../manual/getting_started/help.rst:51
 msgid "You may want to access help for a tool or area from within Blender."
 msgstr ""
+"És possible que vulgueu accedir a l'ajuda d'una eina o àrea des de Blender."
 
 #: ../../manual/getting_started/help.rst:53
 msgid ""
@@ -131,81 +140,97 @@ msgid ""
 "manual within Blender. This opens a webpage relating to the button under the "
 "cursor, supporting both tool and value buttons."
 msgstr ""
+"Utilitzeu la tecla d'accés directe o el menú contextual per visitar pàgines "
+"d'aquest manual de referència a Blender. Això obre una pàgina web "
+"relacionada amb el botó sota el cursor, que dóna suport tant a l'eina com "
+"als botons amb valors."
 
 #: ../../manual/getting_started/help.rst:58
 msgid ""
 "We do not currently have 100% coverage, you may see an alert in the info "
 "header if some tools do not have a link to the manual."
 msgstr ""
+"Actualment no tenim una cobertura del 100%, és possible que vegeu una alerta "
+"al encapçalament de l'ajuda si algunes eines no tenen un enllaç al manual."
 
 #: ../../manual/getting_started/help.rst:61
 msgid ""
 "Other times buttons may link to more general sections of the documentation."
 msgstr ""
+"Altres botons poden enllaçar a seccions més generals de la documentació."
 
 #: ../../manual/getting_started/help.rst:67
 msgid "Help Menu"
-msgstr ""
+msgstr "Menu d'Ajuda"
 
 #: ../../manual/getting_started/help.rst:69
 msgid "The *Help* menu in the Info Editor header."
-msgstr ""
+msgstr "El menú *Help* menu en l'encapçalament de l'Editor d'informacio."
 
 #: ../../manual/getting_started/help.rst:74
 msgid "Help Menu."
-msgstr ""
+msgstr "Menu d'Ajuda"
 
 #: ../../manual/getting_started/help.rst:78
 msgid "Web Links"
-msgstr ""
+msgstr "Enllaços al web"
 
 #: ../../manual/getting_started/help.rst:80
 msgid ""
 "The first options of this menu provide direct links to Blender related "
 "websites: The same links can also be found in the :ref:`splash`."
 msgstr ""
+"Les primeres opcions d'aquest menú proporcionen enllaços directes als llocs "
+"web relacionats amb Blender: els mateixos enllaços també es poden trobar a "
+"la :ref:`splash`."
 
 #: ../../manual/getting_started/help.rst:84
 msgid "Manual"
-msgstr ""
+msgstr "Manual"
 
 #: ../../manual/getting_started/help.rst:84
 msgid ""
 "This is a link to the :doc:`Official Blender Manual </index>` which you are "
 "now reading."
 msgstr ""
+"Aquest és un enllaç al :doc:`Manual Oficial de Blender </index>` que ara "
+"esteu llegint"
 
 #: ../../manual/getting_started/help.rst:87
 msgid "Release Log"
-msgstr ""
+msgstr "Registre de publicacions"
 
 #: ../../manual/getting_started/help.rst:87
 msgid ""
 "The `release notes <https://www.blender.org/features/releases/>`__ on the "
 "Web for the changes made for the current Blender version."
 msgstr ""
+"Les `notes de llançament <https://www.blender.org/features/releases/>`__ a "
+"la web per als canvis realitzats per a la versió actual de Blender."
 
 #: ../../manual/getting_started/help.rst:89
 msgid "Blender Website"
-msgstr ""
+msgstr "LLoc web de Blender"
 
 #: ../../manual/getting_started/help.rst:90
 msgid "The `blender.org <https://www.blender.org/>`__ home page."
-msgstr ""
+msgstr "La pagina d'inici de  `Blender.org <https://www.blender.org/>`__"
 
 #: ../../manual/getting_started/help.rst:92
 msgid "Blender Store"
-msgstr ""
+msgstr "Botiga de Blender"
 
 #: ../../manual/getting_started/help.rst:92
 msgid ""
 "The `Blender Store <https://store.blender.org/>`__ , where you can buy "
 "Training DVD's, books, t-shirts and other products."
 msgstr ""
+"La  `Blender Store <https://store.blender.org/>`__ , on podeu comprar DVD's "
+"de formació, llibres, samarretes i altres productes."
 
 #: ../../manual/getting_started/help.rst:96
 msgid "Developer Community"
-msgstr ""
+msgstr "Comunitat de desenvolupadors"
 
 #: ../../manual/getting_started/help.rst:95
 msgid ""
@@ -214,30 +239,38 @@ msgid ""
 "tracking, patches and scripts, education and training, documentation "
 "development and functionality research."
 msgstr ""
+"La pagina de *blender.org* `involucra't <https://www.blender.org/get-"
+"involved/>`__. Aquesta és la pàgina d'inci per al desenvolupament de "
+"Blender, seguiment d'errors, parxes i scripts, educació i formació, "
+"desenvolupament de documentació i recerca de funcionalitat."
 
 #: ../../manual/getting_started/help.rst:98
 msgid "User Community"
-msgstr ""
+msgstr "Comunitat d'Usuaris"
 
 #: ../../manual/getting_started/help.rst:99
 msgid ""
 "Lists of many different `support venues <https://www.blender.org/support/"
 "user-community/>`__."
 msgstr ""
+"Llistat de molts `llocs de suport <https://www.blender.org/support/user-"
+"community/>`__."
 
 #: ../../manual/getting_started/help.rst:101
 msgid "Report a Bug"
-msgstr ""
+msgstr "Informa d'un error"
 
 #: ../../manual/getting_started/help.rst:101
 msgid ""
 "The `Blender Bug Tracker <https://developer.blender.org/maniphest/task/edit/"
 "form/1/>`__ (registration needed)."
 msgstr ""
+"El `Blender Bug Tracker <https://developer.blender.org/maniphest/task/edit/"
+"form/1/>`__ (és necessari registrar-se)."
 
 #: ../../manual/getting_started/help.rst:103
 msgid "Browser and Internet Connection"
-msgstr ""
+msgstr "Navegador i connexió a Internet"
 
 #: ../../manual/getting_started/help.rst:105
 msgid ""
@@ -246,24 +279,30 @@ msgid ""
 "default web browser for your Operating System, and have a connection to the "
 "Internet."
 msgstr ""
+"Algunes formes d'Ajuda inicien el vostre navegador web i accedeixen als "
+"servidors web de la Fundació Blender. Per fer-ho, heu d'haver configurat un "
+"navegador web predeterminat per al vostre sistema operatiu i tenir una "
+"connexió a Internet."
 
 #: ../../manual/getting_started/help.rst:111
 msgid "Scripting Reference"
-msgstr ""
+msgstr "Referència per scripts"
 
 #: ../../manual/getting_started/help.rst:114
 msgid "Python API Reference"
-msgstr ""
+msgstr "Referència de l'API de Python"
 
 #: ../../manual/getting_started/help.rst:114
 msgid ""
 "Python application programming interface (API) `Reference <https://www."
 "blender.org/api/blender_python_api_current/>`__."
 msgstr ""
+"`Referencia <https://www.blender.org/api/blender_python_api_current/>`__ a "
+"la interficie de programació en Python (API)."
 
 #: ../../manual/getting_started/help.rst:119
 msgid "Operator Cheat Sheet"
-msgstr ""
+msgstr "Apunts dels Operadors"
 
 #: ../../manual/getting_started/help.rst:117
 msgid ""
@@ -271,73 +310,88 @@ msgid ""
 "*Text Editor*. You can also use Blender Search to generate the file. It "
 "lists the available Python operators."
 msgstr ""
+"Crea el bloc de text ``OperatorList.txt``, al qual podeu accedir utiltizant "
+"l'*Editor de text*. També podeu utilitzar la búsqueda de Blender per generar "
+"el fitxer. Enumera els operadors de Python disponibles."
 
 #: ../../manual/getting_started/help.rst:124
 msgid "Save System Info"
-msgstr ""
+msgstr "Desa la informació del sistema"
 
 #: ../../manual/getting_started/help.rst:126
 msgid "Access :menuselection:`Help --> Save System Info`."
-msgstr ""
+msgstr "Accés :menuselection:`Help --> Save System Info`."
 
 #: ../../manual/getting_started/help.rst:128
 msgid ""
 "This extracts system information which can be useful to include in bug "
 "reports, inspecting the configuration or diagnosing problems."
 msgstr ""
+"Això extreu informació del sistema que pot ser útil per incloure en informes "
+"d'errors, inspeccionar la configuració o diagnosticar problemes."
 
 #: ../../manual/getting_started/help.rst:131
 msgid "You will be prompted to save a text file ``system-info.txt``."
-msgstr ""
+msgstr "Se us demanarà que deseu un fitxer de text ``system-info.txt``."
 
 #: ../../manual/getting_started/help.rst:133
 msgid "The text file contains sections:"
-msgstr ""
+msgstr "El fitxer de text conté seccions:"
 
 #: ../../manual/getting_started/help.rst:136
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
 
 #: ../../manual/getting_started/help.rst:136
 msgid ""
 "This section shows you the Blender version, details about the build "
 "configuration, and the path in which Blender is running."
 msgstr ""
+"Aquesta secció us mostra la versió de Blender, detalls sobre la configuració "
+"de compilació i la ruta en què Blender s'executa."
 
 #: ../../manual/getting_started/help.rst:139
 msgid ""
 "The Python version you are using, showing the paths of the Python "
 "programming language paths."
 msgstr ""
+"La versió de Python que esteu utilitzant, mostrant les rutes utilitzades del "
+"llenguatge de programació Python."
 
 #: ../../manual/getting_started/help.rst:142
 msgid "Directories"
-msgstr ""
+msgstr "Directoris"
 
 #: ../../manual/getting_started/help.rst:141
 msgid "Paths used for scripts, data-files, presets and temporary files."
 msgstr ""
+"Camins utilitzats per a scripts, fitxers de dades, presets i fitxers "
+"temporals."
 
 #: ../../manual/getting_started/help.rst:143
 msgid ""
 "Those directories are configured using the :doc:`User Preferences </"
 "preferences/file>` Editor."
 msgstr ""
+"Aquests directoris es configuren mitjançant l'Editor :doc:`Preferencies "
+"D'usuari </preferences/file>`."
 
 #: ../../manual/getting_started/help.rst:147
 msgid "OpenGL"
-msgstr ""
+msgstr "OpenGL"
 
 #: ../../manual/getting_started/help.rst:145
 msgid ""
 "This section shows the OpenGL version, the name of the manufacturer, and "
 "lists the capabilities of your hardware and driver."
 msgstr ""
+"Aquesta secció mostra la versió OpenGL, el nom del fabricant i mostra les "
+"capacitats del vostre maquinari i controlador."
 
 #: ../../manual/getting_started/help.rst:150
 msgid "Splash Screen"
-msgstr ""
+msgstr "Pantalla Inicial"
 
 #: ../../manual/getting_started/help.rst:152
 msgid "Shows the :ref:`splash`."
-msgstr ""
+msgstr "Mostra la :ref:`splash`."

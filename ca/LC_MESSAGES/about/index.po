@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Blender 2.79 Manual 2.79\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-12 13:19+0100\n"
-"PO-Revision-Date: 2018-01-15 08:50+0100\n"
+"PO-Revision-Date: 2018-01-16 11:29+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ca\n"
@@ -19,6 +19,5 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../manual/about/index.rst:5
-#, fuzzy
 msgid "About this Manual"
 msgstr "Sobre aquest Manual"
