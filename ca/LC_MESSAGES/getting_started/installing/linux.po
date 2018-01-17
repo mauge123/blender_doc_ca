@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) : This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the Blender 2.79 Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blender 2.79 Manual 2.79\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-12 13:19+0100\n"
+"PO-Revision-Date: 2018-01-17 09:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../manual/getting_started/installing/linux.rst:4
+msgid "Installing on Linux"
+msgstr "Instal·lant a Linux"
+
+#: ../../manual/getting_started/installing/linux.rst:6
+msgid ""
+"Check the :doc:`minimum requirements and where to get Blender </"
+"getting_started/installing/introduction>`, if you have not done so yet."
+msgstr ""
+"Consulteu el document :doc:`requisits mínims i on obtenir Blender </"
+"getting_started/installing/introduction>` Si encara no ho heu fet."
+
+#: ../../manual/getting_started/installing/linux.rst:11
+msgid "Specific Packages for Distributions"
+msgstr "Paquets específics per a Distribucions"
+
+#: ../../manual/getting_started/installing/linux.rst:13
+msgid ""
+"Some Linux distributions may have on their repositories a specific package "
+"for Blender."
+msgstr ""
+"Algunes distribucions de Linux poden tenir en els seus repositoris un paquet "
+"específic per a Blender."
+
+#: ../../manual/getting_started/installing/linux.rst:15
+msgid ""
+"Installing Blender via the distribution's native mechanisms ensures "
+"consistency with other packages on the system and may provide other features "
+"(given by the package manager), such as listing of packages, update "
+"notifications and automatic menu configuration. Be aware, though, that the "
+"package may be outdated comparing to the latest official release, or not "
+"include some features of Blender. For example, some distributions do not "
+"build Blender with CUDA support for licensing reasons."
+msgstr ""
+"La instal·lació de Blender a través dels mecanismes natius de la distribució "
+"garanteix la coherència amb altres paquets del sistema i pot proporcionar "
+"altres funcions (proporcionades pel gestor de paquets), com ara la llista de "
+"paquets, notificacions d'actualitzacions i la configuració automática del "
+"menu. Tingueu en compte, però, que el paquet pot estar obsolet si es compara "
+"amb l'últim versió oficial o no incloure algunes característiques de "
+"Blender. Per exemple, algunes distribucions no generen Blender amb suport "
+"CUDA per motius de llicència."
+
+#: ../../manual/getting_started/installing/linux.rst:22
+msgid ""
+"If there is a specific package for your distribution, you may choose what is "
+"preferable and most convenient, otherwise, there is nothing wrong with the "
+"official binary on `blender.org <https://www.blender.org/download/>`__."
+msgstr ""
+"Si hi ha un paquet específic per a la vostra distribució, podeu triar el que "
+"preferiu i sigui i més convenient, en cas contrari, no hi ha res dolent en "
+"el binari oficial a `blender.org <https://www.blender.org/download/>`__."
+
+#: ../../manual/getting_started/installing/linux.rst:27
+msgid "Download from blender.org"
+msgstr "Descàrrega de blender.org"
+
+#: ../../manual/getting_started/installing/linux.rst:29
+msgid ""
+"Download the Linux version for your architecture and uncompress the file to "
+"the desired location (e.g. ``~/software`` or ``/usr/local``)."
+msgstr ""
+"Descarregueu la versió de Linux per a la vostra arquitectura i descomprimiu "
+"el fitxer a la ubicació desitjada (p. Ex., ``~/Software`` o ``/usr/local``)."
+
+#: ../../manual/getting_started/installing/linux.rst:32
+msgid "Blender can now be launched by double-clicking the executable."
+msgstr "Llavors Blender es pot iniciar fent doble clic a l'executable."
+
+#: ../../manual/getting_started/installing/linux.rst:34
+msgid ""
+"For easy access, you can configure your system by adding a menu entry or "
+"shortcut for Blender and associate and open blend-files with Blender when "
+"opening from the File browser. These settings typically belong to the Window "
+"Manager (KDE, Gnome, Unity)."
+msgstr ""
+"Per obtenir un accés fàcil, podeu configurar el vostre sistema afegint una "
+"entrada de menú o drecera per a Blender i associar-los i obrir fitxers de "
+"blend amb Blender quan s'obri des del navegador d'arxius. Normalment, "
+"aquesta configuració pertany al gestor de finestres (KDE, Gnome, Unity)."
+
+#: ../../manual/getting_started/installing/linux.rst:40
+msgid "Running from the Terminal"
+msgstr "Executant des de la Línea d'Ordres"
+
+#: ../../manual/getting_started/installing/linux.rst:42
+msgid ""
+"To run Blender from the terminal without needing to be in the executable "
+"directory, add the extracted folder to the environment ``PATH``."
+msgstr ""
+"Per executar Blender des del terminal sense necessitat d'estar al directori "
+"executable, afegiu la carpeta extreta a la variable d'entorn ``PATH``."
+
+#: ../../manual/getting_started/installing/linux.rst:45
+msgid ""
+"Add the following command to ``~/.bashrc`` or ``~/.profile`` pointing to the "
+"directory with Blender's binary:"
+msgstr ""
+"Afegiu el següent comandament a ``~/.bashrc`` or ``~/.profile`` apuntant al "
+"directori amb el binari de Blender:"
+
+#: ../../manual/getting_started/installing/linux.rst:53
+msgid ""
+"If you use daily builds and update Blender frequently, you can link or "
+"always rename your folder to 'blender' and use this name for the ``PATH`` "
+"environment variable and for keeping the window manager menu up to date."
+msgstr ""
+"Si utilitzeu compilacions diàries i actualitzeu Blender sovint, podeu "
+"enllaçar o canviar el nom de la vostra carpeta a 'blender' i utilitzar "
+"aquest nom per a la variable d'entorn ``PATH`` i per a mantenir el menú del "
+"gestor de finestres actualitzat."
+
+#: ../../manual/getting_started/installing/linux.rst:59
+msgid "Avoiding Alt+Mouse Conflict"
+msgstr "Evitar el conflicte amb Alt + Mouse"
+
+#: ../../manual/getting_started/installing/linux.rst:61
+msgid ""
+"Many Window Managers default to :kbd:`Alt-LMB` for moving windows, which is "
+"a shortcut that Blender uses to simulate a three button mouse. You can "
+"either have this feature disabled :menuselection:`User Preferences --> Input "
+"--> Emulate 3 Button Mouse` or you can change the Window Manager settings to "
+"use the *Meta* key instead (also called *Super* or *Windows key*):"
+msgstr ""
+"Molts gestors de finestres predeterminen :kbd:`Alt-LMB` per a moure les "
+"finestres, que és una drecera que Blender utilitza per simular un ratolí de "
+"tres botons. Podeu tenir aquesta característica desactivada :menuselection:"
+"`Preferències d'usuari -> Entrada -> Emular ratolí de 3 Botons` o podeu "
+"canviar la configuració del gestor de finestres per a usar la tecla *Meta* "
+"(també anomenada *Super* o *Tecla de Windows*):"
+
+#: ../../manual/getting_started/installing/linux.rst:66
+msgid ""
+"**KDE:** System Settings > Window Behavior > Window Behavior > Window "
+"Actions , Switch 'Alt' for 'Meta' key"
+msgstr ""
+"**KDE:** Configuració del sistema> Comportament de finestra> Comportament de "
+"finestra> Accions de finestra, Canvia 'Alt' per a la tecla 'Meta'"
+
+#: ../../manual/getting_started/installing/linux.rst:67
+msgid ""
+"**Unity/Gnome:** enter the following in a command line (effective at next "
+"login):"
+msgstr ""
+"**Unity/Gnome:** introduïu el següent en una línia d'ordres (efectiva al "
+"següent inici de sessió):"

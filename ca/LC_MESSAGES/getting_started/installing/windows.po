@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) : This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the Blender 2.79 Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blender 2.79 Manual 2.79\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-12 13:19+0100\n"
+"PO-Revision-Date: 2018-01-17 07:27+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca\n"
+
+#: ../../manual/getting_started/installing/windows.rst:4
+msgid "Installing on MS-Windows"
+msgstr "Instal·lant en MS-Windows"
+
+#: ../../manual/getting_started/installing/windows.rst:6
+msgid ""
+"Check the :doc:`minimum requirements and where to get Blender </"
+"getting_started/installing/introduction>`, if you have not done so yet."
+msgstr ""
+"Comprova el :doc:`requisits mínims i on obtenir Blender </getting_started/"
+"installing/introduction>`, Si encara no ho heu fet."
+
+#: ../../manual/getting_started/installing/windows.rst:9
+msgid ""
+"You will also need the `Visual C++ 2013 Redistributable Package <https://www."
+"microsoft.com/en-us/download/details.aspx?id=40784>`__."
+msgstr ""
+"També necessitareu el paquet `Visual C++ 2013 Redistributable <https://www."
+"microsoft.com/en-us/download/details.aspx?id=40784>`__."
+
+#: ../../manual/getting_started/installing/windows.rst:12
+msgid ""
+"Download the ``.zip`` or ``.msi`` for your architecture (64-bit is "
+"preferable if your machine supports it)."
+msgstr ""
+"Descarregueu el fitxer ``.zip`` o `` .msi`` per a la vostra arquitectura (és "
+"preferible tenir 64 bits si el vostre equip ho admet)."
+
+#: ../../manual/getting_started/installing/windows.rst:14
+msgid ""
+"The ``.msi`` will run an installer to choose where to place Blender and to "
+"configure MS-Windows to have an entry on the menu and to open .blend-files "
+"with Blender. Administrator rights are needed to install Blender on your "
+"system."
+msgstr ""
+"El `` .msi`` executarà un instal·lador per triar on col·locar Blender i "
+"configurar MS-Windows per tenir una entrada al menú i per obrir els fitxers ."
+"blend amb Blender. Tenir permisos d'administrador és necessari per "
+"instal·lar Blender al vostre sistema."
+
+#: ../../manual/getting_started/installing/windows.rst:20
+msgid "MS-Windows installer."
+msgstr "Instal·lador de MS-Windows."
+
+#: ../../manual/getting_started/installing/windows.rst:24
+msgid ""
+"With ``.zip`` you have to manually extract Blender to the desired folder, "
+"where you can double-click the executable to run Blender."
+msgstr ""
+"Amb ``.zip`` heu d'extreure Blender manualment a la carpeta desitjada, on "
+"podeu fer doble clic a l'executable per executar Blender."
+
+#: ../../manual/getting_started/installing/windows.rst:27
+msgid ""
+"There is no installer to place Blender on the menu, but there is also no "
+"need for administrator rights. With this option, it is possible to have "
+"multiple versions of Blender without conflicting, as they are not actually "
+"installed on the system."
+msgstr ""
+"No hi ha instal·lador per col·locar Blender al menú, però tampoc hi ha "
+"necessitat de permisos d'administrador. Amb aquesta opció, és possible tenir "
+"diverses versions de Blender sense conflictes, ja que no estan instal·lades "
+"al sistema."
+
+#: ../../manual/getting_started/installing/windows.rst:31
+msgid ""
+"However, if you want a particular version to be registered with your "
+"computer the simply run ``blender -r`` from the :doc:`Command Line </"
+"advanced/command_line/arguments>`."
+msgstr ""
+"Tanmateix, si voleu registrar una versió concreta en el vostre ordinador, "
+"simplement executeu ``blender -r`` des de la :doc:`línea d'ordres </advanced/"
+"command_line/arguments>`."
