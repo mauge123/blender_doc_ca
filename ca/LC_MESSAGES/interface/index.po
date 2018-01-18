@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Blender 2.79 Manual 2.79\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-12 13:19+0100\n"
-"PO-Revision-Date: 2018-01-12 14:45+0100\n"
+"PO-Revision-Date: 2018-01-18 09:44+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,20 +24,20 @@ msgstr "Interfície de l'usuari"
 
 #: ../../manual/interface/index.rst:18
 msgid "Window System"
-msgstr ""
+msgstr "Sistema de Finestres"
 
 #: ../../manual/interface/index.rst:31
 msgid "Interface Controls"
-msgstr ""
+msgstr "Controls en l'Interficie"
 
 #: ../../manual/interface/index.rst:36
 msgid "Buttons and Controls"
-msgstr ""
+msgstr "Botons i Controls"
 
 #: ../../manual/interface/index.rst:49
 msgid "Extended Controls"
-msgstr ""
+msgstr "Extenció dels Controls"
 
 #: ../../manual/interface/index.rst:65
 msgid "Tools"
-msgstr ""
+msgstr "Eines"

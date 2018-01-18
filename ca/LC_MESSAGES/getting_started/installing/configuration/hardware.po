@@ -1,0 +1,215 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) : This page is licensed under a CC-BY-SA 4.0 Int. License
+# This file is distributed under the same license as the Blender 2.79 Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Blender 2.79 Manual 2.79\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-12 13:19+0100\n"
+"PO-Revision-Date: 2018-01-17 11:51+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca\n"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:4
+msgid "Configuring Peripherals"
+msgstr "Configurant Perifèrics"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:7
+msgid "Displays"
+msgstr "Monitors"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:9
+msgid "Todo add."
+msgstr "Todo add. (Per fer)"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:15
+msgid "Multi-Monitor Setup"
+msgstr "Configuració multi-monitor"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:19
+msgid "This is an example of Blender's multi-monitor support."
+msgstr "Exemple del suport del blender per a multi-monitors."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:23
+msgid "Input Devices"
+msgstr "Dispostius d'Entrada"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:27
+msgid "Blender supports various types of input devices:"
+msgstr "Blender admet diversos tipus de dispositius d'entrada:"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:29
+msgid ""
+"Keyboard (recommended: keyboard with numeric keypad, English layout works "
+"best)"
+msgstr ""
+"Teclat (recomanat: teclat amb teclat numèric, la disposició en anglès "
+"funciona millor)"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:30
+msgid "Mouse (recommended: 3 button mouse with scroll wheel)"
+msgstr "Ratolí (recomanat: ratoí de 3 botons amb roda de desplaçament)"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:31
+msgid "NDOF Devices (also known as *3D Mouse*)"
+msgstr "Dispositius NDOF (també coneguts com *Mouse 3D*)"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:32
+#: ../../manual/getting_started/installing/configuration/hardware.rst:90
+msgid "Graphic Tablets"
+msgstr "Tauletes gràfiques"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:36
+msgid "Mice"
+msgstr "Ratolí"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:39
+msgid "Mouse Button Emulation"
+msgstr "Emulació del Botó del Ratolí"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:41
+msgid ""
+"If you do not have a 3 button mouse, you will need to emulate it by checking "
+"the option in the :doc:`User Preferences </preferences/input>`."
+msgstr ""
+"Si no teniu un ratolí de 3 botons, haureu d'emular-ho marcant l'opció a les :"
+"doc:`Preferencies d'Usuari </preferences/input>`."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:44
+msgid "The following table shows the combinations used:"
+msgstr "A la taula següent es mostren les combinacions utilitzades:"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:49
+msgid "3-button Mouse"
+msgstr "Ratolí de 3 botons"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:50
+#: ../../manual/getting_started/installing/configuration/hardware.rst:54
+msgid ":kbd:`LMB`"
+msgstr ":kbd:`LMB`"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:51
+msgid ":kbd:`MMB`"
+msgstr ":kbd:`MMB`"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:52
+#: ../../manual/getting_started/installing/configuration/hardware.rst:56
+msgid ":kbd:`RMB`"
+msgstr ":kbd:`RMB`"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:53
+msgid "2-button Mouse"
+msgstr "Ratolí de 2 botons"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:55
+msgid ":kbd:`Alt-LMB`"
+msgstr ":kbd:`Alt-LMB`"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:60
+msgid "Keyboards"
+msgstr "Teclats"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:63
+msgid "Numpad Emulation"
+msgstr "Emulació de Teclat Numèric"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:65
+msgid ""
+"If you do not have a numeric Numpad on the side of your keyboard, you may "
+"want to emulate one (uses the numbers at the top of the keyboard instead, "
+"however, removes quick access to layer visibility)."
+msgstr ""
+"Si no teniu un teclat numèric al costat del vostre teclat, en podeu emular "
+"un (en canvi, utilitzeu els números a la part superior del teclat, però, "
+"elimina l'accés ràpid a la visibilitat de la capa)."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:71
+msgid ""
+"Read more about *Numpad Emulation* in the :doc:`User Preferences </"
+"preferences/input>`."
+msgstr ""
+"Llegiu més sobre *Emulació del teclat numèric* a :doc:`Preferencies d'Usuari "
+"</preferences/input>`."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:75
+msgid "Non English Keyboards"
+msgstr "Teclats no anglesos"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:77
+msgid ""
+"If you use a keyboard with a non-english keyboard layout, you still may "
+"benefit from switching your computer to the UK or US layout as long as you "
+"work with Blender."
+msgstr ""
+"Si utilitzeu un teclat amb una disposició de teclat que no sigui Anglès, "
+"podeu millorar canviant l'ordinador a la disposició UK o US mentre treballeu "
+"amb Blender."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:82
+msgid ""
+"You can also change the default keymap and default hotkeys from the :doc:"
+"`User Preferences </preferences/input>`, however, this manual assumes you "
+"are using the default keymap."
+msgstr ""
+"També podeu canviar el mapa de teclat per defecte i les tecles d'accés "
+"directe predeterminades a les :doc:`Preferencies d'Usuari </preferences/"
+"input>`, no obstant, aquest manual suposa que esteu utilitzant el mapa de "
+"teclat per defecte."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:92
+msgid ""
+"Graphics tablets can be used to provide a more traditional method of "
+"controlling the mouse cursor using a pen. This can help to provide a more "
+"familiar experience for artists who are used to painting and drawing with "
+"similar tools, as well as provide additional controls such as pressure "
+"sensitivity."
+msgstr ""
+"Les tauletes gràfiques es poden utilitzar per proporcionar un mètode més "
+"tradicional de controlar el cursor del ratolí mitjançant un llapis . Això "
+"pot ajudar a proporcionar una experiència més familiar als artistes que "
+"acostumen a pintar i dibuixar amb eines similars, a més de proporcionar "
+"controls addicionals com la sensibilitat a la pressió."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:99
+msgid ""
+"If you are using a graphic tablet instead of a mouse and pressure "
+"sensitivity does not work properly, try to place the mouse pointer in the "
+"Blender window and then unplug/replug your graphic tablet. This might help."
+msgstr ""
+"Si utilitzeu una tauleta gràfica en comptes d'un ratolí i la sensibilitat a "
+"la pressió no funciona correctament, intenteu col·locar el punter del ratolí "
+"a la finestra del Blender i, a continuació, desconecteu/conecteu la tauleta "
+"gràfica. Això podria ajudar..."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:104
+msgid "3D Mice"
+msgstr "Ratolí 3D"
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:106
+msgid ""
+"3D Mice or :abbr:`NDOF (N-Degrees of Freedom)` devices are hardware that you "
+"can use to navigate a scene in Blender. Currently only devices made by "
+"3Dconnexion are supported. These devices allow you to explore a scene, as "
+"well as :ref:`Walk/Fly modes <3dview-walk-fly>`."
+msgstr ""
+"Els Ratolins en 3D o :abbr:`NDOF (N-Degrees of Freedom, N-graus de "
+"llibertat)` són un maquinari que podeu utilitzar per navegar una escena al "
+"Blender. Actualment només s'admeten els dispositius fabricats per "
+"3Dconnexion. Aquests dispositius us permeten explorar una escena, així com :"
+"ref:`Walk/Fly modes <3dview-walk-fly>`."
+
+#: ../../manual/getting_started/installing/configuration/hardware.rst:112
+msgid ""
+"See :doc:`Input Preference </preferences/input>` for more information on "
+"configuring peripherals."
+msgstr ""
+"Vegeu :doc:`Preferencies D'entrada </preferences/input>` per obtenir més "
+"informació sobre la configuració de perifèrics."

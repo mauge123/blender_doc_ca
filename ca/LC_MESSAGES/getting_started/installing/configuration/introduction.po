@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Blender 2.79 Manual 2.79\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-12 13:19+0100\n"
-"PO-Revision-Date: 2018-01-17 09:33+0100\n"
+"PO-Revision-Date: 2018-01-17 11:03+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,20 +60,26 @@ msgid ""
 "If you have a compact keyboard without a separate number pad, enable :"
 "menuselection:`File --> User Preferences --> Emulate Numpad`."
 msgstr ""
+"Si teniu un teclat compacte sense teclat númeric per separat, activeu "
+"enable :menuselection:`Fitxer --> Preferències d'usuari --> Emular Teclat "
+"Numeric`."
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:27
 msgid ""
 "If you do not have a middle mouse button, you can enable :menuselection:"
 "`File --> User Preferences --> Emulate 3 Button Mouse`."
 msgstr ""
+"Si no teniu un ratolí amb botó central, podeu habilitar :menuselection:"
+"`Fitxer --> Preferencies d'Usuari --> Emular Ratolí de 3 botons`."
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:30
 msgid "See :doc:`Input Preferences </preferences/input>` for details."
 msgstr ""
+"Vegeu :doc:`Preferències d'Entrada </preferences/input>` per més detalls."
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:34
 msgid "File and Paths"
-msgstr ""
+msgstr "Fitxers i Rutes"
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:36
 msgid ""
@@ -81,18 +87,26 @@ msgid ""
 "such as what external *Image Editor* to use, such as GIMP or Krita, and the "
 "Animation Player."
 msgstr ""
+"A  :menuselection:`Fitxer --> Preferencies d'Usuari --> Fitxer` podeu "
+"configurar opcions com l'*Editor d'Imatges* extern, com GIMP o Krita i el "
+"reproductor d'animació."
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:40
 msgid ""
 "The :ref:`temp-dir` sets where to store files such as temporary renders and "
 "auto-saves."
 msgstr ""
+"El :ref:`temp-dir` estableix on s'emmagatzemen fitxers com ara "
+"renderitzacions temporals i guardats automàtics."
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:44
 msgid ""
 "The ``//`` at the start of each path in Blender means the directory of the "
 "currently opened blend-file, used to reference relative paths."
 msgstr ""
+"El ``//`` al principi de cada ruta en Blender significa el directori del "
+"fitxer de l'arxiu blend que està obert, fent-se servir per fer referència a "
+"rutes relatives."
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:47
 msgid ""
@@ -103,7 +117,16 @@ msgid ""
 "often used in advanced rigs (such as \"Rigify\" that controls the skeleton "
 "of a human rig)."
 msgstr ""
+"Si confieu en l'origen dels vostres fitxers .blend, podeu habilitar "
+"*Executar automàticament les seqüències d'ordres Python*. Aquesta opció està "
+"dissenyada per protegir-vos contra les seqüències d'ordres malicioses de "
+"Python que algú pot incloure dins d'un fitxer .blend. Això no passaria per "
+"accident, i la majoria d'usuaris deixen aquesta opció per executar "
+"automàticament scripts que sovint s'utilitzen en mecanismes d'animació "
+"avançades (com ara \"Rigify\" que controla l'esquelet d'un mecanisme "
+"d'animació humà)."
 
 #: ../../manual/getting_started/installing/configuration/introduction.rst:53
 msgid "See :doc:`File Preferences </preferences/file>` for details."
 msgstr ""
+"Veure :doc:`Preferencies de Fitxers </preferences/file>` per més detalls."
